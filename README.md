@@ -1,2 +1,3 @@
 # Ss7-advenced-script
 ...
+the thing is
