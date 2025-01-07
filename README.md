@@ -1,3 +1,3 @@
 # Ss7-advenced-script
 ...
-the thing is
+ for information and purposes only
